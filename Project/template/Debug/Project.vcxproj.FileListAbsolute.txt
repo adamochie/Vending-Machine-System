@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\SEM 2\COA\template\template\Debug\Project.exe
+C:\Users\Asus\Desktop\SEM 2\COA\Project\template\template\Debug\Project.exe
+C:\Users\User\Desktop\UTM\Semester 2\Computer Organization and Architecture\Project\Project\template\template\Debug\Project.exe
+C:\Users\Asus\Desktop\SEM 2\COA\Project\Project\Project\template\template\Debug\Project.exe
+C:\Users\User\Desktop\UTM\Semester 2\Computer Organization and Architecture\Project\Project\template\Debug\Project.exe
